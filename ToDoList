@@ -1,0 +1,15 @@
+
+UI:
+    - Buttons for movement for mobile
+
+
+Enemies:
+    - States:
+        - Patrol
+        - Chase
+        - Retreat
+
+
+Big Food:
+
+Dash Mechanic
